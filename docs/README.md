@@ -1,7 +1,7 @@
 
 Requirements to recreate the project: 
     1. Vivado Design Suite
-    2. source files, testbench, tcl script as in the submitted file structure.
+    2. source files, testbench, tcl script as in the file structure.
 
 
 You can go through the following steps to run the tcl script.
